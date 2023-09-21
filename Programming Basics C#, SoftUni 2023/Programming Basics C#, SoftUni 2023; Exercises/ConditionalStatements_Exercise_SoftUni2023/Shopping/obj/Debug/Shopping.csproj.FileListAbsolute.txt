@@ -1,0 +1,8 @@
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\Shopping\bin\Debug\Shopping.exe.config
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\Shopping\bin\Debug\Shopping.exe
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\Shopping\bin\Debug\Shopping.pdb
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\Shopping\obj\Debug\Shopping.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\Shopping\obj\Debug\Shopping.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\Shopping\obj\Debug\Shopping.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\Shopping\obj\Debug\Shopping.exe
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\Shopping\obj\Debug\Shopping.pdb

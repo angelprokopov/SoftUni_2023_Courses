@@ -1,0 +1,8 @@
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\ExcursionSale\bin\Debug\ExcursionSale.exe.config
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\ExcursionSale\bin\Debug\ExcursionSale.exe
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\ExcursionSale\bin\Debug\ExcursionSale.pdb
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\ExcursionSale\obj\Debug\ExcursionSale.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\ExcursionSale\obj\Debug\ExcursionSale.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\ExcursionSale\obj\Debug\ExcursionSale.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\ExcursionSale\obj\Debug\ExcursionSale.exe
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\ExcursionSale\obj\Debug\ExcursionSale.pdb

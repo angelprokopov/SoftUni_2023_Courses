@@ -1,0 +1,8 @@
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\CharacterSequence\bin\Debug\CharacterSequence.exe.config
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\CharacterSequence\bin\Debug\CharacterSequence.exe
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\CharacterSequence\bin\Debug\CharacterSequence.pdb
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\CharacterSequence\obj\Debug\CharacterSequence.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\CharacterSequence\obj\Debug\CharacterSequence.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\CharacterSequence\obj\Debug\CharacterSequence.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\CharacterSequence\obj\Debug\CharacterSequence.exe
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\CharacterSequence\obj\Debug\CharacterSequence.pdb

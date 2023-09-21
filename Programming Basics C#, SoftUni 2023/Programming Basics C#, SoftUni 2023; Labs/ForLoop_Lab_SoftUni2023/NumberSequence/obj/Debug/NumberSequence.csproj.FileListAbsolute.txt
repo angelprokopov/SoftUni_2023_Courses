@@ -1,0 +1,8 @@
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\NumberSequence\bin\Debug\NumberSequence.exe.config
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\NumberSequence\bin\Debug\NumberSequence.exe
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\NumberSequence\bin\Debug\NumberSequence.pdb
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\NumberSequence\obj\Debug\NumberSequence.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\NumberSequence\obj\Debug\NumberSequence.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\NumberSequence\obj\Debug\NumberSequence.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\NumberSequence\obj\Debug\NumberSequence.exe
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\NumberSequence\obj\Debug\NumberSequence.pdb

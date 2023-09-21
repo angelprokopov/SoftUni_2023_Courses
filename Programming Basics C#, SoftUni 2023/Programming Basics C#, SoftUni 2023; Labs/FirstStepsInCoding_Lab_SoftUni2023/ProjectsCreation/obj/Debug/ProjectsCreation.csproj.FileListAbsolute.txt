@@ -1,0 +1,8 @@
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\ProjectsCreation\bin\Debug\ProjectsCreation.exe.config
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\ProjectsCreation\bin\Debug\ProjectsCreation.exe
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\ProjectsCreation\bin\Debug\ProjectsCreation.pdb
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\ProjectsCreation\obj\Debug\ProjectsCreation.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\ProjectsCreation\obj\Debug\ProjectsCreation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\ProjectsCreation\obj\Debug\ProjectsCreation.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\ProjectsCreation\obj\Debug\ProjectsCreation.exe
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\ProjectsCreation\obj\Debug\ProjectsCreation.pdb

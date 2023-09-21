@@ -1,0 +1,8 @@
+C:\Users\Angel\source\repos\ConditionalStatementsAdvanced_Exercise_SoftUni2023\OnTimeForTheExam\bin\Debug\OnTimeForTheExam.exe.config
+C:\Users\Angel\source\repos\ConditionalStatementsAdvanced_Exercise_SoftUni2023\OnTimeForTheExam\bin\Debug\OnTimeForTheExam.exe
+C:\Users\Angel\source\repos\ConditionalStatementsAdvanced_Exercise_SoftUni2023\OnTimeForTheExam\bin\Debug\OnTimeForTheExam.pdb
+C:\Users\Angel\source\repos\ConditionalStatementsAdvanced_Exercise_SoftUni2023\OnTimeForTheExam\obj\Debug\OnTimeForTheExam.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\ConditionalStatementsAdvanced_Exercise_SoftUni2023\OnTimeForTheExam\obj\Debug\OnTimeForTheExam.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\ConditionalStatementsAdvanced_Exercise_SoftUni2023\OnTimeForTheExam\obj\Debug\OnTimeForTheExam.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\ConditionalStatementsAdvanced_Exercise_SoftUni2023\OnTimeForTheExam\obj\Debug\OnTimeForTheExam.exe
+C:\Users\Angel\source\repos\ConditionalStatementsAdvanced_Exercise_SoftUni2023\OnTimeForTheExam\obj\Debug\OnTimeForTheExam.pdb

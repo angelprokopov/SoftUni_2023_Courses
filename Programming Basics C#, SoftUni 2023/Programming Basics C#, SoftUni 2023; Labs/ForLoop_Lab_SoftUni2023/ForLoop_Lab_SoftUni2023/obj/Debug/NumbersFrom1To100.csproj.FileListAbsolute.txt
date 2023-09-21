@@ -1,0 +1,8 @@
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\ForLoop_Lab_SoftUni2023\bin\Debug\ForLoop_Lab_SoftUni2023.exe.config
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\ForLoop_Lab_SoftUni2023\bin\Debug\ForLoop_Lab_SoftUni2023.exe
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\ForLoop_Lab_SoftUni2023\bin\Debug\ForLoop_Lab_SoftUni2023.pdb
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\ForLoop_Lab_SoftUni2023\obj\Debug\NumbersFrom1To100.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\ForLoop_Lab_SoftUni2023\obj\Debug\NumbersFrom1To100.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\ForLoop_Lab_SoftUni2023\obj\Debug\NumbersFrom1To100.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\ForLoop_Lab_SoftUni2023\obj\Debug\ForLoop_Lab_SoftUni2023.exe
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\ForLoop_Lab_SoftUni2023\obj\Debug\ForLoop_Lab_SoftUni2023.pdb

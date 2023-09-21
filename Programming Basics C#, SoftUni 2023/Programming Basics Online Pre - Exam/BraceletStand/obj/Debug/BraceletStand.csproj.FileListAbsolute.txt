@@ -1,0 +1,8 @@
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\BraceletStand\bin\Debug\BraceletStand.exe.config
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\BraceletStand\bin\Debug\BraceletStand.exe
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\BraceletStand\bin\Debug\BraceletStand.pdb
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\BraceletStand\obj\Debug\BraceletStand.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\BraceletStand\obj\Debug\BraceletStand.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\BraceletStand\obj\Debug\BraceletStand.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\BraceletStand\obj\Debug\BraceletStand.exe
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\BraceletStand\obj\Debug\BraceletStand.pdb

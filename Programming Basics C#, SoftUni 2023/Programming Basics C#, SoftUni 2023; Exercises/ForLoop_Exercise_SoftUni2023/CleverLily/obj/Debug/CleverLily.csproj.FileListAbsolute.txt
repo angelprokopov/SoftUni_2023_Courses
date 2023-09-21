@@ -1,0 +1,8 @@
+C:\Users\Angel\source\repos\ForLoop_Exercise_SoftUni2023\CleverLily\bin\Debug\CleverLily.exe.config
+C:\Users\Angel\source\repos\ForLoop_Exercise_SoftUni2023\CleverLily\bin\Debug\CleverLily.exe
+C:\Users\Angel\source\repos\ForLoop_Exercise_SoftUni2023\CleverLily\bin\Debug\CleverLily.pdb
+C:\Users\Angel\source\repos\ForLoop_Exercise_SoftUni2023\CleverLily\obj\Debug\CleverLily.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\ForLoop_Exercise_SoftUni2023\CleverLily\obj\Debug\CleverLily.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\ForLoop_Exercise_SoftUni2023\CleverLily\obj\Debug\CleverLily.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\ForLoop_Exercise_SoftUni2023\CleverLily\obj\Debug\CleverLily.exe
+C:\Users\Angel\source\repos\ForLoop_Exercise_SoftUni2023\CleverLily\obj\Debug\CleverLily.pdb

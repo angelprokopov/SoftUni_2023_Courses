@@ -1,0 +1,8 @@
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe.config
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\LeftAndRightSum\bin\Debug\LeftAndRightSum.pdb
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\LeftAndRightSum\obj\Debug\LeftAndRightSum.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\LeftAndRightSum\obj\Debug\LeftAndRightSum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\LeftAndRightSum\obj\Debug\LeftAndRightSum.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\LeftAndRightSum\obj\Debug\LeftAndRightSum.exe
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\LeftAndRightSum\obj\Debug\LeftAndRightSum.pdb

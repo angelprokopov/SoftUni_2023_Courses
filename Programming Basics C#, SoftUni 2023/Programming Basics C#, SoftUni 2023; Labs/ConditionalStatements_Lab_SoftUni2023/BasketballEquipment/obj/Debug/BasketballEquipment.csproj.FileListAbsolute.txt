@@ -1,0 +1,8 @@
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\BasketballEquipment\bin\Debug\BasketballEquipment.exe.config
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\BasketballEquipment\bin\Debug\BasketballEquipment.exe
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\BasketballEquipment\bin\Debug\BasketballEquipment.pdb
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\BasketballEquipment\obj\Debug\BasketballEquipment.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\BasketballEquipment\obj\Debug\BasketballEquipment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\BasketballEquipment\obj\Debug\BasketballEquipment.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\BasketballEquipment\obj\Debug\BasketballEquipment.exe
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\BasketballEquipment\obj\Debug\BasketballEquipment.pdb

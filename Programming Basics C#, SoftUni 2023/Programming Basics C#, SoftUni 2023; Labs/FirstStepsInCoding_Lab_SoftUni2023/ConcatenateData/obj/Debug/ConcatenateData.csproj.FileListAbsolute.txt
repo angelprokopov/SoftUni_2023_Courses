@@ -1,0 +1,8 @@
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\ConcatenateData\bin\Debug\ConcatenateData.exe.config
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\ConcatenateData\bin\Debug\ConcatenateData.exe
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\ConcatenateData\bin\Debug\ConcatenateData.pdb
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\ConcatenateData\obj\Debug\ConcatenateData.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\ConcatenateData\obj\Debug\ConcatenateData.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\ConcatenateData\obj\Debug\ConcatenateData.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\ConcatenateData\obj\Debug\ConcatenateData.exe
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\ConcatenateData\obj\Debug\ConcatenateData.pdb

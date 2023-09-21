@@ -1,0 +1,8 @@
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\TimePlus15Minutes\bin\Debug\TimePlus15Minutes.exe.config
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\TimePlus15Minutes\bin\Debug\TimePlus15Minutes.exe
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\TimePlus15Minutes\bin\Debug\TimePlus15Minutes.pdb
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\TimePlus15Minutes\obj\Debug\TimePlus15Minutes.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\TimePlus15Minutes\obj\Debug\TimePlus15Minutes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\TimePlus15Minutes\obj\Debug\TimePlus15Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\TimePlus15Minutes\obj\Debug\TimePlus15Minutes.exe
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\TimePlus15Minutes\obj\Debug\TimePlus15Minutes.pdb

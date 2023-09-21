@@ -1,0 +1,8 @@
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\BonusScore\bin\Debug\BonusScore.exe.config
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\BonusScore\bin\Debug\BonusScore.exe
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\BonusScore\bin\Debug\BonusScore.pdb
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\BonusScore\obj\Debug\BonusScore.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\BonusScore\obj\Debug\BonusScore.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\BonusScore\obj\Debug\BonusScore.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\BonusScore\obj\Debug\BonusScore.exe
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\BonusScore\obj\Debug\BonusScore.pdb

@@ -1,0 +1,8 @@
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\NumbersNTo1\bin\Debug\NumbersNTo1.exe.config
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\NumbersNTo1\bin\Debug\NumbersNTo1.exe
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\NumbersNTo1\bin\Debug\NumbersNTo1.pdb
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\NumbersNTo1\obj\Debug\NumbersNTo1.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\NumbersNTo1\obj\Debug\NumbersNTo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\NumbersNTo1\obj\Debug\NumbersNTo1.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\NumbersNTo1\obj\Debug\NumbersNTo1.exe
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\NumbersNTo1\obj\Debug\NumbersNTo1.pdb

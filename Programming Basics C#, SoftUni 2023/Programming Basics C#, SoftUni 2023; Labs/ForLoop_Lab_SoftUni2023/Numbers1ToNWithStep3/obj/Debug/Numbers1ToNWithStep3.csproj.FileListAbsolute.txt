@@ -1,0 +1,8 @@
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\Numbers1ToNWithStep3\bin\Debug\Numbers1ToNWithStep3.exe.config
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\Numbers1ToNWithStep3\bin\Debug\Numbers1ToNWithStep3.exe
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\Numbers1ToNWithStep3\bin\Debug\Numbers1ToNWithStep3.pdb
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\Numbers1ToNWithStep3\obj\Debug\Numbers1ToNWithStep3.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\Numbers1ToNWithStep3\obj\Debug\Numbers1ToNWithStep3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\Numbers1ToNWithStep3\obj\Debug\Numbers1ToNWithStep3.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\Numbers1ToNWithStep3\obj\Debug\Numbers1ToNWithStep3.exe
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\Numbers1ToNWithStep3\obj\Debug\Numbers1ToNWithStep3.pdb

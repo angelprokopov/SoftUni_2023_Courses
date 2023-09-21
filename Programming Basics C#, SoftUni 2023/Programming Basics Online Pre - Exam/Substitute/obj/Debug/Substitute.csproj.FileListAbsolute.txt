@@ -1,0 +1,8 @@
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\Substitute\bin\Debug\Substitute.exe.config
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\Substitute\bin\Debug\Substitute.exe
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\Substitute\bin\Debug\Substitute.pdb
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\Substitute\obj\Debug\Substitute.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\Substitute\obj\Debug\Substitute.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\Substitute\obj\Debug\Substitute.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\Substitute\obj\Debug\Substitute.exe
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\Substitute\obj\Debug\Substitute.pdb

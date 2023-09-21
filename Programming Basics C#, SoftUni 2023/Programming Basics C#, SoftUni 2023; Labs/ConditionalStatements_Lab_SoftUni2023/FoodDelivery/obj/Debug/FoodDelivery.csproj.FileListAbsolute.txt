@@ -1,0 +1,8 @@
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\FoodDelivery\bin\Debug\FoodDelivery.exe.config
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\FoodDelivery\bin\Debug\FoodDelivery.exe
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\FoodDelivery\bin\Debug\FoodDelivery.pdb
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\FoodDelivery\obj\Debug\FoodDelivery.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\FoodDelivery\obj\Debug\FoodDelivery.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\FoodDelivery\obj\Debug\FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\FoodDelivery\obj\Debug\FoodDelivery.exe
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\FoodDelivery\obj\Debug\FoodDelivery.pdb

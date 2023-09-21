@@ -1,0 +1,8 @@
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\LunchBreak\bin\Debug\LunchBreak.exe.config
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\LunchBreak\bin\Debug\LunchBreak.exe
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\LunchBreak\bin\Debug\LunchBreak.pdb
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\LunchBreak\obj\Debug\LunchBreak.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\LunchBreak\obj\Debug\LunchBreak.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\LunchBreak\obj\Debug\LunchBreak.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\LunchBreak\obj\Debug\LunchBreak.exe
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\LunchBreak\obj\Debug\LunchBreak.pdb

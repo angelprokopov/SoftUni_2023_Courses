@@ -1,0 +1,8 @@
+C:\Users\Angel\source\repos\ConditionalStatementsAdvanced_Exercise_SoftUni2023\FishingBoat\bin\Debug\FishingBoat.exe.config
+C:\Users\Angel\source\repos\ConditionalStatementsAdvanced_Exercise_SoftUni2023\FishingBoat\bin\Debug\FishingBoat.exe
+C:\Users\Angel\source\repos\ConditionalStatementsAdvanced_Exercise_SoftUni2023\FishingBoat\bin\Debug\FishingBoat.pdb
+C:\Users\Angel\source\repos\ConditionalStatementsAdvanced_Exercise_SoftUni2023\FishingBoat\obj\Debug\FishingBoat.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\ConditionalStatementsAdvanced_Exercise_SoftUni2023\FishingBoat\obj\Debug\FishingBoat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\ConditionalStatementsAdvanced_Exercise_SoftUni2023\FishingBoat\obj\Debug\FishingBoat.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\ConditionalStatementsAdvanced_Exercise_SoftUni2023\FishingBoat\obj\Debug\FishingBoat.exe
+C:\Users\Angel\source\repos\ConditionalStatementsAdvanced_Exercise_SoftUni2023\FishingBoat\obj\Debug\FishingBoat.pdb

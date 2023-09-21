@@ -1,0 +1,8 @@
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\RadiansToDegrees\bin\Debug\RadiansToDegrees.exe.config
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\RadiansToDegrees\bin\Debug\RadiansToDegrees.exe
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\RadiansToDegrees\bin\Debug\RadiansToDegrees.pdb
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\RadiansToDegrees\obj\Debug\RadiansToDegrees.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\RadiansToDegrees\obj\Debug\RadiansToDegrees.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\RadiansToDegrees\obj\Debug\RadiansToDegrees.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\RadiansToDegrees\obj\Debug\RadiansToDegrees.exe
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\RadiansToDegrees\obj\Debug\RadiansToDegrees.pdb

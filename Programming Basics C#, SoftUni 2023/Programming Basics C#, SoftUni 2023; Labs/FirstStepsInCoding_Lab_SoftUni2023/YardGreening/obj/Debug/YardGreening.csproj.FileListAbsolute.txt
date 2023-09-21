@@ -1,0 +1,8 @@
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\YardGreening\bin\Debug\YardGreening.exe.config
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\YardGreening\bin\Debug\YardGreening.exe
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\YardGreening\bin\Debug\YardGreening.pdb
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\YardGreening\obj\Debug\YardGreening.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\YardGreening\obj\Debug\YardGreening.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\YardGreening\obj\Debug\YardGreening.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\YardGreening\obj\Debug\YardGreening.exe
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\YardGreening\obj\Debug\YardGreening.pdb

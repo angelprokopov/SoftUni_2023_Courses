@@ -1,0 +1,8 @@
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe.config
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\InchesToCentimeters\bin\Debug\InchesToCentimeters.pdb
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\InchesToCentimeters\obj\Debug\InchesToCentimeters.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\InchesToCentimeters\obj\Debug\InchesToCentimeters.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\InchesToCentimeters\obj\Debug\InchesToCentimeters.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\InchesToCentimeters\obj\Debug\InchesToCentimeters.exe
+C:\Users\Angel\source\repos\FirstStepsInCoding_Lab_SoftUni2023\InchesToCentimeters\obj\Debug\InchesToCentimeters.pdb

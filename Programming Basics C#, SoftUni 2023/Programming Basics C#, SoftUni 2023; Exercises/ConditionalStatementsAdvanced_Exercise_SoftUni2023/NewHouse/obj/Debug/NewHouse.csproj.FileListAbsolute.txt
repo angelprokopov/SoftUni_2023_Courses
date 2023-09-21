@@ -1,0 +1,3 @@
+C:\Users\Angel\source\repos\ConditionalStatementsAdvanced_Exercise_SoftUni2023\NewHouse\obj\Debug\NewHouse.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\ConditionalStatementsAdvanced_Exercise_SoftUni2023\NewHouse\obj\Debug\NewHouse.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\ConditionalStatementsAdvanced_Exercise_SoftUni2023\NewHouse\obj\Debug\NewHouse.csproj.CoreCompileInputs.cache

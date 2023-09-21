@@ -1,0 +1,8 @@
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\Programming Basics Online Pre - Exam\bin\Debug\Programming Basics Online Pre - Exam.exe.config
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\Programming Basics Online Pre - Exam\bin\Debug\Programming Basics Online Pre - Exam.exe
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\Programming Basics Online Pre - Exam\bin\Debug\Programming Basics Online Pre - Exam.pdb
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\Programming Basics Online Pre - Exam\obj\Debug\ChristmasPreparation.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\Programming Basics Online Pre - Exam\obj\Debug\ChristmasPreparation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\Programming Basics Online Pre - Exam\obj\Debug\ChristmasPreparation.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\Programming Basics Online Pre - Exam\obj\Debug\Programming Basics Online Pre - Exam.exe
+C:\Users\Angel\source\repos\Programming Basics Online Pre - Exam\Programming Basics Online Pre - Exam\obj\Debug\Programming Basics Online Pre - Exam.pdb

@@ -1,0 +1,8 @@
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\OddEvenSum\bin\Debug\OddEvenSum.exe.config
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\OddEvenSum\bin\Debug\OddEvenSum.exe
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\OddEvenSum\bin\Debug\OddEvenSum.pdb
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\OddEvenSum\obj\Debug\OddEvenSum.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\OddEvenSum\obj\Debug\OddEvenSum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\OddEvenSum\obj\Debug\OddEvenSum.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\OddEvenSum\obj\Debug\OddEvenSum.exe
+C:\Users\Angel\source\repos\ForLoop_Lab_SoftUni2023\OddEvenSum\obj\Debug\OddEvenSum.pdb

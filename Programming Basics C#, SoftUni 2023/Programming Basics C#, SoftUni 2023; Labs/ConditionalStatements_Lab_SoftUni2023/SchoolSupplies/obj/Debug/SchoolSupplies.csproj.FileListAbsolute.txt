@@ -1,0 +1,8 @@
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\SchoolSupplies\bin\Debug\SchoolSupplies.exe.config
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\SchoolSupplies\bin\Debug\SchoolSupplies.exe
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\SchoolSupplies\bin\Debug\SchoolSupplies.pdb
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\SchoolSupplies\obj\Debug\SchoolSupplies.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\SchoolSupplies\obj\Debug\SchoolSupplies.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\SchoolSupplies\obj\Debug\SchoolSupplies.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\SchoolSupplies\obj\Debug\SchoolSupplies.exe
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\SchoolSupplies\obj\Debug\SchoolSupplies.pdb

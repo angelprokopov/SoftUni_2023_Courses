@@ -1,0 +1,8 @@
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\ToyShop\bin\Debug\ToyShop.exe.config
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\ToyShop\bin\Debug\ToyShop.exe
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\ToyShop\bin\Debug\ToyShop.pdb
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\ToyShop\obj\Debug\ToyShop.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\ToyShop\obj\Debug\ToyShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\ToyShop\obj\Debug\ToyShop.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\ToyShop\obj\Debug\ToyShop.exe
+C:\Users\Angel\source\repos\ConditionalStatements_Exercise_SoftUni2023\ToyShop\obj\Debug\ToyShop.pdb

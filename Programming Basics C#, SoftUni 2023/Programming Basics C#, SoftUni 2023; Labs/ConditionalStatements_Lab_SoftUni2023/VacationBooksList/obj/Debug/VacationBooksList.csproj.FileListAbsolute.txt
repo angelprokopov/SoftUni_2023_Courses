@@ -1,0 +1,8 @@
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\VacationBooksList\bin\Debug\VacationBooksList.exe.config
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\VacationBooksList\bin\Debug\VacationBooksList.exe
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\VacationBooksList\bin\Debug\VacationBooksList.pdb
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\VacationBooksList\obj\Debug\VacationBooksList.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\VacationBooksList\obj\Debug\VacationBooksList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\VacationBooksList\obj\Debug\VacationBooksList.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\VacationBooksList\obj\Debug\VacationBooksList.exe
+C:\Users\Angel\source\repos\ConditionalStatements_Lab_SoftUni2023\VacationBooksList\obj\Debug\VacationBooksList.pdb
