@@ -1,0 +1,7 @@
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\Syntax;Loops&Cond.Statements\Syntax;Loops&Cond.Statements\bin\Debug\Syntax;Loops&Cond.Statements.exe.config
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\Syntax;Loops&Cond.Statements\Syntax;Loops&Cond.Statements\bin\Debug\Syntax;Loops&Cond.Statements.exe
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\Syntax;Loops&Cond.Statements\Syntax;Loops&Cond.Statements\bin\Debug\Syntax;Loops&Cond.Statements.pdb
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\Syntax;Loops&Cond.Statements\Syntax;Loops&Cond.Statements\obj\Debug\Ages.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\Syntax;Loops&Cond.Statements\Syntax;Loops&Cond.Statements\obj\Debug\Ages.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\Syntax;Loops&Cond.Statements\Syntax;Loops&Cond.Statements\obj\Debug\Syntax;Loops&Cond.Statements.exe
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\Syntax;Loops&Cond.Statements\Syntax;Loops&Cond.Statements\obj\Debug\Syntax;Loops&Cond.Statements.pdb

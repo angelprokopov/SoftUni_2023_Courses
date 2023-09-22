@@ -1,0 +1,7 @@
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\DataTypesAndVariables.exe.config
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\DataTypesAndVariables.exe
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\DataTypesAndVariables.pdb
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\IntegerOperations.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\IntegerOperations.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\DataTypesAndVariables.exe
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\DataTypesAndVariables.pdb

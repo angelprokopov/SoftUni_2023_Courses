@@ -1,0 +1,7 @@
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\Syntax;Loops&Cond.Statements\StrongNumber\bin\Debug\StrongNumber.exe.config
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\Syntax;Loops&Cond.Statements\StrongNumber\bin\Debug\StrongNumber.exe
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\Syntax;Loops&Cond.Statements\StrongNumber\bin\Debug\StrongNumber.pdb
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\Syntax;Loops&Cond.Statements\StrongNumber\obj\Debug\StrongNumber.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\Syntax;Loops&Cond.Statements\StrongNumber\obj\Debug\StrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\Syntax;Loops&Cond.Statements\StrongNumber\obj\Debug\StrongNumber.exe
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\Syntax;Loops&Cond.Statements\StrongNumber\obj\Debug\StrongNumber.pdb

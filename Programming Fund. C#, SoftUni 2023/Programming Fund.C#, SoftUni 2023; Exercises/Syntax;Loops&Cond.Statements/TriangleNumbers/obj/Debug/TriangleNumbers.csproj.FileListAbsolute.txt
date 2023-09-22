@@ -1,0 +1,7 @@
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\Syntax;Loops&Cond.Statements\TriangleNumbers\bin\Debug\TriangleNumbers.exe.config
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\Syntax;Loops&Cond.Statements\TriangleNumbers\bin\Debug\TriangleNumbers.exe
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\Syntax;Loops&Cond.Statements\TriangleNumbers\bin\Debug\TriangleNumbers.pdb
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\Syntax;Loops&Cond.Statements\TriangleNumbers\obj\Debug\TriangleNumbers.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\Syntax;Loops&Cond.Statements\TriangleNumbers\obj\Debug\TriangleNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\Syntax;Loops&Cond.Statements\TriangleNumbers\obj\Debug\TriangleNumbers.exe
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\Syntax;Loops&Cond.Statements\TriangleNumbers\obj\Debug\TriangleNumbers.pdb

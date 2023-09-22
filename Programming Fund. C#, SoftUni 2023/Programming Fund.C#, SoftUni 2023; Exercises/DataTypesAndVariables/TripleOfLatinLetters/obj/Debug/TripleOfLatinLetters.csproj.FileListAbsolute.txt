@@ -1,0 +1,7 @@
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\DataTypesAndVariables\TripleOfLatinLetters\bin\Debug\TripleOfLatinLetters.exe.config
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\DataTypesAndVariables\TripleOfLatinLetters\bin\Debug\TripleOfLatinLetters.exe
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\DataTypesAndVariables\TripleOfLatinLetters\bin\Debug\TripleOfLatinLetters.pdb
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\DataTypesAndVariables\TripleOfLatinLetters\obj\Debug\TripleOfLatinLetters.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\DataTypesAndVariables\TripleOfLatinLetters\obj\Debug\TripleOfLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\DataTypesAndVariables\TripleOfLatinLetters\obj\Debug\TripleOfLatinLetters.exe
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\DataTypesAndVariables\TripleOfLatinLetters\obj\Debug\TripleOfLatinLetters.pdb

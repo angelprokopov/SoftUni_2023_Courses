@@ -1,0 +1,7 @@
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\DataTypesAndVariables\SumOfChars\bin\Debug\SumOfChars.exe.config
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\DataTypesAndVariables\SumOfChars\bin\Debug\SumOfChars.exe
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\DataTypesAndVariables\SumOfChars\bin\Debug\SumOfChars.pdb
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\DataTypesAndVariables\SumOfChars\obj\Debug\SumOfChars.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\DataTypesAndVariables\SumOfChars\obj\Debug\SumOfChars.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\DataTypesAndVariables\SumOfChars\obj\Debug\SumOfChars.exe
+C:\Users\Angel\source\repos\Programming Fund. C#, SoftUni 2023\Programming Fund.C#, SoftUni 2023; Exercises\DataTypesAndVariables\SumOfChars\obj\Debug\SumOfChars.pdb
